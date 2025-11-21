@@ -1,0 +1,6 @@
+selenium
+pytest
+playwright
+boto3
+toml
+awslambdaric
